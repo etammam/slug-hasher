@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Eslam M. Tammam</Authors>
+    <Company>Wikiux.Inc</Company>
+    <Product>Slug Hasher</Product>
+    <Description>this lib allow you to encrypt the url parameters on asp.net mvc arch</Description>
+    <PackageReleaseNotes>this is the initial release</PackageReleaseNotes>
+    <Copyright>this is opensource library crafted by Eslam M. Tammam</Copyright>
+  </PropertyGroup>
+
+</Project>
