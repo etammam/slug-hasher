@@ -1,4 +1,4 @@
-# slug-hasher
+# Slug Hasher
 hashing the url paramters on asp.net mvc arch
 ### Usage
 To encrypt some value and pass it to another action in MVC you would do something like the below.
@@ -32,3 +32,4 @@ public ActionResult About()
 }
 
 ```
+&copy; Eslam M. Tammam
